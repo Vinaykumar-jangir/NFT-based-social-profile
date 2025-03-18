@@ -1,12 +1,5 @@
 # NFT-based Social Profile
 
-## Table of Contents
-- [Project Title](#project-title)
-- [Project Description](#project-description)
-- [Project Vision](#project-vision)
-- [Future Scope](#future-scope)
-- [Key Features](#key-features)
-
 ## Project Title
 **NFT-based Social Profile**
 
@@ -42,4 +35,9 @@ The future scope of the **NFT-based Social Profile** project is vast and include
 ---
 
 This platform aims to create a next-generation solution for digital identity, where users can truly own and control their online profiles in a decentralized manner.
+## Contract Address
+0x09315d1febed65d719b75349b60a730c09ec858c0a2676e3dc5e3bf4b06e1858
+
+![image](https://github.com/user-attachments/assets/f08adc34-7e5f-4531-9617-12ec9aa2530c)
+
 
